@@ -1,5 +1,5 @@
 Meizu PRO5
 ==========
 
-This branch is for building CyanogenMod 13 ROMS
+This branch is for building <strike>CyanogenMod</strike>Lineage OS 14 ROMS
 
